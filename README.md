@@ -16,6 +16,7 @@ RStudio Tutorials for DataScience
 
 
 
+Previews of ggplot visualizations you'll learn
 
 ![](/Visualizations/Graph1.png)
 
