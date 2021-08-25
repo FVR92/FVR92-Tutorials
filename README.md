@@ -6,10 +6,10 @@ RStudio Tutorials for DataScience
 * A brief tutorial on real data analyst situation you may get stuck with Importing, Merging, Tidying Data, DateTime Format Variable, Parsing, Exploring, Summarizing, Visualizing
 
 
-![](https://github.com/FVR92/FVR92-Tutorials/blob/main/Visualizations/Graph1.png)
+![](/Visualizations/Graph1.png)
 
-![](https://github.com/FVR92/FVR92-Tutorials/blob/main/Visualizations/Graph2.png)
+![](/Visualizations/Graph2.png)
 
-![](https://github.com/FVR92/FVR92-Tutorials/blob/main/Visualizations/Graph3.png)
+![](/Visualizations/Graph3.png)
 
-![](https://github.com/FVR92/FVR92-Tutorials/blob/main/Visualizations/Graph4.png)
+![](/Visualizations/Graph4.png)
